@@ -1,5 +1,5 @@
 # Hackerrank-SQL-Skills-Test-Solution
-I have taken HackerRank [test](https://www.hackerrank.com/skills-verification/sql_basic) on __3rd June 2022__. 
+I have taken HackerRank [test](https://www.hackerrank.com/skills-verification/sql_basic) on __22th Nov 2024__. 
 
 2 Questions are asked, as of now 2 questions will be asked from these questions, provided the solution also:
 ## Programs / Questions
